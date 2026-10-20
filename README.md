@@ -1,7 +1,5 @@
 
-# 🚀 CI/CD Flask Application
-
-**Version:** `1.0.7`
+# 🚀 CI/CD Flask Application v1.0.0
 
 A containerized Flask application demonstrating a CI/CD pipeline using Docker, GitHub Actions, and Semantic Versioning.
 
